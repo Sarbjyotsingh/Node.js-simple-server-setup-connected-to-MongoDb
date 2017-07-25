@@ -1,0 +1,31 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is simple node.js Server setup connected with MongoDb via mongoose on port:27107(defualt port for MongoDb) and shows on which port server is running and  show server is connect to database or not if not it throw err why it is not connected. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb.git"
+  },
+  "keywords": [
+    "Node.js",
+    "server",
+    "connected",
+    "to",
+    "Mongodb"
+  ],
+  "author": "Sarbjyot Singh Chahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb/issues"
+  },
+  "homepage": "https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
