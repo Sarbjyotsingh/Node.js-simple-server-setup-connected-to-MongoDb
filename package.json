@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb.git"
+    "url": "https://github.com/Sarbjyotsingh/Node.js-simple-server-setup-connected-to-MongoDb"
   },
   "keywords": [
     "Node.js",
@@ -21,7 +21,7 @@
   "author": "Sarbjyot Singh Chahal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb/issues"
+    "url": "https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb"
   },
   "homepage": "https://github.com/Sarbjyotsingh/Sarbjyotsingh-Node.js-server-setup-connected-to-MongoDb#readme",
   "dependencies": {
